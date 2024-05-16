@@ -3,8 +3,7 @@ Repository for the ROS software that runs on the AAU modified ExoMy Rover.
 
 This version of the system runs on a NVIDIA Xavier, using Ubuntu 20.04, jetpack 5.0 and ROS Foxy.
 
-![space_rover](https://user-images.githubusercontent.com/10414639/191828909-85940ba7-ba86-4ce1-a9d4-1935cab395c0.png) ![cad_model_rover](https://user-images.githubusercontent.com/10414639/191828635-1847e5da-2ec3-4514-8d83-937bd631fd72.png)
-
+![image](https://github.com/Djauvel/ERC-PPO/assets/93127878/8527d82a-85d8-4e4e-b548-e727591d2e95)
 
 
 To launch the camera nodes, open a terminal and run:
